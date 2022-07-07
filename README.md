@@ -3,7 +3,7 @@
 
 This is my first project challenge as a Front-end developer at Techathon Community
 
-![Design preview for the Order summary card coding challenge](./design/mobile-preview.jpg)
+![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
