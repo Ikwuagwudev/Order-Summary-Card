@@ -15,9 +15,9 @@ Thanks for checking out this front-end project given to me by Techathon Communit
 
 Html Semantics used  - main
 
-Inline Elements used  - <p>, <a>, <img>, <button>
+Inline Elements used  - ( <p>, <a>, <img>, <button> )
   
-Block Elements used - <div>, <h1> <h2>, <body>
+Block Elements used - ( <div>, <h1> <h2>, <body> )
 
 ##  Deploying my project
 
