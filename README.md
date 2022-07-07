@@ -9,15 +9,17 @@ This is my first project challenge as a Front-end developer at Techathon Communi
 
 Thanks for checking out this front-end project given to me by Techathon Community.
 
-## Deploying my project
+##  Building my project
 
-I used Html and Css to build this Order-Summary-Card
+**  I used Html and Css to build this Order-Summary-Card
 
 Html Semantics used  - main
 
 Inline Elements used  - <p>, <a>, <img>, <button>
   
 Block Elements used - <div>, <h1> <h2>, <body>
+
+##  Deploying my project
 
 Check out my github.io below for the live project
 
